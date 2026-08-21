@@ -1,26 +1,226 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: mhkarami97 # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+
+  # ==================== سایت اصلی ====================
+  - name: MHKarami97 (Main / Portfolio)
+    url: https://mhkarami97.ir
+
+  # ==================== External Projects (محتوا) ====================
+  - name: آی ترفند
+    url: https://tarfand.mhkarami97.ir
+
+  - name: وبلاگ
+    url: https://blog.mhkarami97.ir
+
+  - name: کتابخانه
+    url: https://book.mhkarami97.ir
+
+  - name: فیلم‌خانه
+    url: https://video.mhkarami97.ir
+
+  - name: سفرنامه
+    url: https://travel.mhkarami97.ir
+
+  - name: کلیپ
+    url: https://trip.mhkarami97.ir
+
+  - name: شعرخانه
+    url: https://poem.mhkarami97.ir
+
+  - name: فوت‌وفن
+    url: https://trick.mhkarami97.ir
+
+  - name: جملات انگیزشی
+    url: https://sentence.mhkarami97.ir
+
+  - name: لینکدونی
+    url: https://link.mhkarami97.ir
+
+  - name: ایونت
+    url: https://event.mhkarami97.ir
+
+  - name: فیلم آموزشی
+    url: https://film.mhkarami97.ir
+
+  - name: تجربه
+    url: https://experience.mhkarami97.ir
+
+  - name: کلاس
+    url: https://learn.mhkarami97.ir
+
+  - name: دیکشنری
+    url: https://dictionary.mhkarami97.ir
+
+  - name: الگوریتم
+    url: https://algorithm.mhkarami97.ir
+
+  - name: لایف لیست
+    url: https://list.mhkarami97.ir
+
+  - name: پرامپ
+    url: https://prompt.mhkarami97.ir
+
+  - name: تاریخ
+    url: https://date.mhkarami97.ir
+
+  - name: آموزش
+    url: https://teach.mhkarami97.ir
+
+  - name: اقتصاد
+    url: https://economy.mhkarami97.ir
+
+  - name: سیاست
+    url: https://politic.mhkarami97.ir
+
+  - name: علمی
+    url: https://science.mhkarami97.ir
+
+  - name: روانشناسی
+    url: https://person.mhkarami97.ir
+
+  # ==================== Website (دامنه‌های مستقل) ====================
+  - name: Karam Travel
+    url: https://karamtravel.ir
+
+  - name: Tour
+    url: https://tour.mhkarami97.ir
+
+  - name: Zoorvan (تجربه‌نامه)
+    url: https://zoorvan.ir
+
+  - name: Shirdal Market
+    url: https://shirdalmarket.ir
+
+  - name: YarKhoone
+    url: https://yarkhoone.ir
+
+  - name: Chavooshan
+    url: https://chavooshan.ir
+
+  - name: ZolfDota
+    url: https://zolfdota.ir
+
+  - name: DorGardoon
+    url: https://dorgardoon.ir
+
+  - name: MolkRey
+    url: https://molkrey.ir
+
+  - name: Zamaanak
+    url: https://zamaanak.ir
+
+  - name: Hengam
+    url: https://hengam.zamaanak.ir
+
+  # ==================== Tool (ابزارهای زیردامنه) ====================
+  - name: Magic Box
+    url: https://magic.mhkarami97.ir
+
+  - name: Game Box
+    url: https://game.mhkarami97.ir
+
+  - name: Tool Box (AI)
+    url: https://ai.mhkarami97.ir
+
+  - name: Calender
+    url: https://calender.mhkarami97.ir
+
+  - name: Finance
+    url: https://finance.mhkarami97.ir
+
+  - name: Sport
+    url: https://sport.mhkarami97.ir
+
+  - name: Task
+    url: https://task.mhkarami97.ir
+
+  - name: CheckList
+    url: https://checklist.mhkarami97.ir
+
+  # ==================== Applications (Cafebazaar) ====================
+  - name: جعبه ابزار (App)
+    url: https://cafebazaar.ir/app/mhk.webtools
+
+  - name: بدن ساز (App)
+    url: https://cafebazaar.ir/app/mhk.sport
+
+  - name: تقویم شمسی (App)
+    url: https://cafebazaar.ir/app/mhk.calender
+
+  - name: تجربه‌نامه / زروان (App)
+    url: https://cafebazaar.ir/app/mhk.zoorvan
+
+  - name: مدیریت مالی (App)
+    url: https://cafebazaar.ir/app/mhk.finance
+
+  - name: مدیریت کارها (App)
+    url: https://cafebazaar.ir/app/mhk.task
+
+  - name: چاوشان (App)
+    url: https://cafebazaar.ir/app/mhk.chavooshan
+
+  - name: زلف دوتا (App)
+    url: https://cafebazaar.ir/app/mhk.zolfdota
+
+  - name: دور گردون (App)
+    url: https://cafebazaar.ir/app/mhk.dorgardoon
+
+  - name: چک لیست (App)
+    url: https://cafebazaar.ir/app/mhk.checklist
+
+  - name: ملک ری (App)
+    url: https://cafebazaar.ir/app/mhk.molkrey
+
+  - name: زمانک (App)
+    url: https://cafebazaar.ir/app/mhk.zamaanak
+
+  - name: هنگام (App)
+    url: https://cafebazaar.ir/app/mhk.hengam
+
+  # ==================== Games (Cafebazaar) ====================
+  - name: جعبه بازی (Game)
+    url: https://cafebazaar.ir/app/mhk.gamebox
+
+  - name: چیستا (Game)
+    url: https://cafebazaar.ir/app/mhk.chista
+
+  # ==================== NuGet Packages ====================
+  - name: EasyMultiCacheManager (NuGet)
+    url: https://www.nuget.org/packages/EasyMultiCacheManager
+
+  - name: EasyPersianNormalizer (NuGet)
+    url: https://www.nuget.org/packages/EasyPersianNormalizer
+
+  - name: EasyPool (NuGet)
+    url: https://www.nuget.org/packages/EasyPool
+
+  - name: SkipList (NuGet)
+    url: https://www.nuget.org/packages/SkipList
+
+  # ==================== Browser Extensions (Edge Add-ons) ====================
+  - name: New Tab (Extension)
+    url: https://microsoftedge.microsoft.com/addons/detail/%D8%AF%D8%A7%D8%B4%D8%A8%D9%88%D8%B1%D8%AF-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/mdnmgigpikijbhjenbjknhcnldebobpa
+
+  - name: Font Changer (Extension)
+    url: https://microsoftedge.microsoft.com/addons/detail/font-changer-for-google-f/hhalocjgpdnjfoimnaaphihomijagcmo
+
+  - name: Easy Translate (Extension)
+    url: https://microsoftedge.microsoft.com/addons/detail/easy-translate/njddckflieienddodhibkddobipgaghg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  #cname: demo.upptime.js.org
+   baseUrl: /uptime
+  logoUrl: https://raw.githubusercontent.com/mhkarami97/uptime/master/assets/upptime-icon.svg
+  name: Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our .No server required — just GitHub Actions
   navbar:
     - title: Status
       href: /
