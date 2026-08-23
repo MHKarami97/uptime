@@ -473,18 +473,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/f1.mhkarami97.ir.ico",
     "slug": "frmwl-yk",
     "status": "down",
-    "uptime": "12.18%",
-    "uptimeDay": "12.18%",
-    "uptimeWeek": "12.18%",
-    "uptimeMonth": "12.18%",
-    "uptimeYear": "12.18%",
+    "uptime": "5.19%",
+    "uptimeDay": "5.19%",
+    "uptimeWeek": "5.19%",
+    "uptimeMonth": "5.19%",
+    "uptimeYear": "5.19%",
     "time": 25,
     "timeDay": 25,
     "timeWeek": 25,
     "timeMonth": 25,
     "timeYear": 25,
     "dailyMinutesDown": {
-      "2026-08-23": 1
+      "2026-08-23": 4
     }
   },
   {
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 945,
+      "2026-08-23": 947,
       "2026-08-22": 1440,
       "2026-08-21": 932
     }
@@ -976,7 +976,7 @@
     "timeMonth": 1153,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2026-08-23": 945,
+      "2026-08-23": 947,
       "2026-08-22": 1440,
       "2026-08-21": 932
     }
@@ -987,11 +987,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cafebazaar.ir.ico",
     "slug": "dwr-grdwn-app",
     "status": "up",
-    "uptime": "57.62%",
+    "uptime": "57.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "57.62%",
-    "uptimeMonth": "57.62%",
-    "uptimeYear": "57.62%",
+    "uptimeWeek": "57.65%",
+    "uptimeMonth": "57.65%",
+    "uptimeYear": "57.65%",
     "time": 2940,
     "timeDay": 1311,
     "timeWeek": 2940,
@@ -1037,7 +1037,7 @@
     "timeMonth": 1708,
     "timeYear": 1708,
     "dailyMinutesDown": {
-      "2026-08-23": 945,
+      "2026-08-23": 947,
       "2026-08-22": 1440,
       "2026-08-21": 931
     }
@@ -1066,11 +1066,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cafebazaar.ir.ico",
     "slug": "hngam-app",
     "status": "up",
-    "uptime": "46.45%",
+    "uptime": "46.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "46.45%",
-    "uptimeMonth": "46.45%",
-    "uptimeYear": "46.45%",
+    "uptimeWeek": "46.49%",
+    "uptimeMonth": "46.49%",
+    "uptimeYear": "46.49%",
     "time": 1257,
     "timeDay": 1183,
     "timeWeek": 1257,
