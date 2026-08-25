@@ -86,6 +86,9 @@ sites:
   - name: فرمول یک
     url: https://f1.mhkarami97.ir
 
+  - name: شکسته
+    url: https://shekaste.mhkarami97.ir
+
   # ==================== Website (دامنه‌های مستقل) ====================
   - name: Karam Travel
     url: https://karamtravel.ir
@@ -184,6 +187,12 @@ sites:
 
   - name: هنگام (App)
     url: https://cafebazaar.ir/app/mhk.hengam
+
+  - name: f1 (App)
+    url: https://cafebazaar.ir/app/mhk.f1
+
+  - name: شکسته (App)
+    url: https://cafebazaar.ir/app/mhk.shekaste
 
   # ==================== Games (Cafebazaar) ====================
   - name: جعبه بازی (Game)
