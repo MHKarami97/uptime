@@ -83,12 +83,6 @@ sites:
   - name: روانشناسی
     url: https://person.mhkarami97.ir
 
-  - name: فرمول یک
-    url: https://f1.mhkarami97.ir
-
-  - name: شکسته
-    url: https://shekaste.mhkarami97.ir
-
   # ==================== Website (دامنه‌های مستقل) ====================
   - name: Karam Travel
     url: https://karamtravel.ir
@@ -148,6 +142,15 @@ sites:
   - name: CheckList
     url: https://checklist.mhkarami97.ir
 
+  - name: فرمول یک
+    url: https://f1.mhkarami97.ir
+
+  - name: شکسته
+    url: https://shekaste.mhkarami97.ir
+
+  - name: Short Link
+    url: https://s.mhkarami97.ir
+
   # ==================== Applications (Cafebazaar) ====================
   - name: جعبه ابزار (App)
     url: https://cafebazaar.ir/app/mhk.webtools
@@ -193,6 +196,9 @@ sites:
 
   - name: شکسته (App)
     url: https://cafebazaar.ir/app/mhk.shekaste
+
+  - name: شیردال مارکت (App)
+    url: https://cafebazaar.ir/app/mhk.shirdalmarket
 
   # ==================== Games (Cafebazaar) ====================
   - name: جعبه بازی (Game)
