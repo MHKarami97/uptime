@@ -1,7 +1,7 @@
 url: https://cafebazaar.ir/app/mhk.zoorvan
-status: up
-code: 200
-responseTime: 1798
-lastUpdated: 2026-11-26T04:45:07.209Z
+status: down
+code: 503
+responseTime: 191
+lastUpdated: 2026-11-27T04:52:41.812Z
 startTime: 2026-08-21T08:27:49.376Z
 generator: Upptime <https://github.com/upptime/upptime>
